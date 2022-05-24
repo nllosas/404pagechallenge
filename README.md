@@ -29,7 +29,7 @@ Create a 404 not found page following the design.
 
 <hr>
 
-**Where:** <br> Demo is available at [Github repo](https://github.com/islandskan/devchallenges-responsive-404.git) and as a live app through [Netlify](https://islandskan-404-not-found-demo.netlify.app/) <br>
+**Where:** <br> Demo is available at [Github repo](https://github.com/nllosas/404pagechallenge.git) and as a live app through [Netlify](https://404-page-not-found-challenge-nicollosas.netlify.app/) <br>
 
 **Experience and what I learned:**<br>
 When I started to adjust the design for different screen sizes, I struggled a bit because I started from the desktop design and tried to work my way down in screen size. I changed my strategy and started the other way around, by building the layout based on the smallest breakpoint at 375px. After that, I built the layout for the largest breakpoint at 1025 px and more. This made it easier to adjust the design in between these breakpoints.<br>
@@ -49,9 +49,9 @@ I also enjoyed working with the README as a part of the workflow, and I got to r
 
 - This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) was to build an application to complete the given user stories.
 
-- The application/site is created as a "mobile-first" and responsive layout, with major breakpoints at 375 px, 768px, and 1024px and more.
+- The application/site is created as a "mobile-first" and responsive layout, with major breakpoints at 10px, 768px, 1200px and 1500px and more.
 
-- Other than the user stories, I added transitions on the button and the link to my github account
+- Other than the user stories, I added the link to my github account
 
 ## Acknowledgements
 

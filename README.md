@@ -32,13 +32,9 @@ Create a 404 not found page following the design.
 **Where:** <br> Demo is available at [Github repo](https://github.com/nllosas/404pagechallenge.git) and as a live app through [Netlify](https://404-page-not-found-challenge-nicollosas.netlify.app/) <br>
 
 **Experience and what I learned:**<br>
-When I started to adjust the design for different screen sizes, I struggled a bit because I started from the desktop design and tried to work my way down in screen size. I changed my strategy and started the other way around, by building the layout based on the smallest breakpoint at 375px. After that, I built the layout for the largest breakpoint at 1025 px and more. This made it easier to adjust the design in between these breakpoints.<br>
+At first I struggled a lot, I wasn't sure where to begin. On my first attempts I tried to replicate exactly what was on the figma example layout, but I realized that my page was not dynamic to the change in window size. I knew some things here and there from html+css but after tackling this challenge I was forced to go on Youtube and watch more detailed videos on how to resolve the problems I encountered. In the end I found this Youtube [playlist](https://www.youtube.com/watch?v=TKYsuU86-DQ&list=PL0eyrZgxdwhwNC5ppZo_dYGVjerQY3xYU) by [Dani Krossing](https://www.youtube.com/c/TheCharmefis) that had everything I needed to learn to replicate and complete the challenge.
 
-That said, I'm going to review media queries, since I was not sure in which cascading order to put the min-widths in the style sheet.
-
-Other than that, I enjoyed working with the requirement to deploy the demo page as part of the workflow. That is something I going to work more with forward. <br>
-
-I also enjoyed working with the README as a part of the workflow, and I got to review Markdown syntax.
+I also had to figure out how to work with netfly and github to be able to show my solution
 
 ### Built With
 

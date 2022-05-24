@@ -71,5 +71,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- GitHub [@nllosas]([https://{github.com/nllosas](https://github.com/nllosas/404pagechallenge)})
+- GitHub [@nllosas](https://github.com/nllosas/404pagechallenge})
 - Linkedin [@Nico Llosas](https://www.linkedin.com/in/nico-llosas-945762227/})
